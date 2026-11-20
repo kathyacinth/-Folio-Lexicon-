@@ -1,0 +1,8 @@
+{
+  "name": "Folio Lexicon",
+  "description": "An editorial dictionary, real-time grammar checker, and contextual vocabulary studio for precise, expressive writing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
